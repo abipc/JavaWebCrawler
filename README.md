@@ -1,7 +1,6 @@
 JavaWebCrawler
 =====================
 
-A multi threaded web crawler in java
+[TODO]: A multi threaded web crawler in java
 
-Thanks to Andreas Hess
-http://www.andreas-hess.info/programming/webcrawler/index.html
+Work In Progress - Setting up a Hadoop Single Node cluster on Ubuntu 12.4 LTE. Thanks to Michael Noll: http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
